@@ -1,0 +1,1 @@
+Acas valflerin butonlardan gelen bilgiler ile kontrolü.
