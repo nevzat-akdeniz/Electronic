@@ -1,0 +1,1 @@
+Acas valflerin microswitch çıkışları ile bobin kontrolü.
